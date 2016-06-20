@@ -1,0 +1,15 @@
+body{
+    position: relative;
+}
+div#frameContainer{
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 50px;
+
+}
+iframe#aulaonline{
+    position: relative;
+    width: 100%;
+    height: 650px;
+}

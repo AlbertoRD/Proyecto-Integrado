@@ -1,0 +1,38 @@
+table#tablaBlog span.articuloCategoria+span:before{
+    content: ', ';
+}
+table#tablaBlog{
+    position: relative;
+    width: 80%;
+    float: left;
+}
+div#controlTabla label, div#controlTabla input[type=checkbox]{
+    cursor:pointer;
+    font-weight: normal;
+}
+.clearBoth{
+    clear: both;
+}
+.checkbox-circle{
+    
+    border-radius: 100%;
+}
+.blogTitulo{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.articuloCategoria{
+    color: blue;
+}
+.containerBlog{
+    position: relaive;
+    width: 80%;
+    margin: 0 auto;
+}
+.blogTexto{
+    padding: 10px 0;
+}
+.articulo{
+    padding: 10px 0 ;
+}
+
